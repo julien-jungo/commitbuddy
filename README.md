@@ -5,6 +5,7 @@ CommitBuddy makes it easy to commit changes according to the Conventional Commit
 ## Setup
 
 ```bash
+$ go build -o commitbuddy commitbuddy.go
 $ export PATH="$(pwd):$PATH"
 ```
 
